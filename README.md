@@ -1,4 +1,4 @@
-# MovieRecommendation基于协同过滤算法的电影推荐系统
+# 基于协同过滤算法的电影推荐系统MovieRecommendation
 ## 1、简介
 Collaborative Filtering(TwoMethod)_0.3为包含User_CF协同过滤和 Item_CF协同过滤两种算法的程序，并包含了直接取平均值的混合模型的结果
  为了保证程序运行的效率， Collaborative Filtering(TwoMethod)_0.3只计算了测试集中电影的评分预测
